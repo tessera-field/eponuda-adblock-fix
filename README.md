@@ -23,3 +23,15 @@ This userscript stops those interruptions before they load:
 ## Disclaimer
 
 This repository is an independent open-source utility. It is not affiliated with, maintained by, or endorsed by eponuda.com.
+
+<details>
+<summary>Uputstvo na srpskom (Rešenje za eponuda.com blokadu)</summary>
+
+Skripta uklanja beli ekran, preusmeravanja (redirects) i poruku „Please allow ads on this site“ na sajtu eponuda.com kada koristite AdBlock, Brave Shields, uBlock Origin ili NextDNS.
+
+### Instalacija:
+1. Instalirajte Violentmonkey ili Tampermonkey u vaš pretraživač.
+2. Kliknite na [eponuda-defuser.user.js](eponuda-defuser.user.js) i potvrdite instalaciju.
+3. Otvorite eponuda.com - sajt radi normalno bez blokada.
+
+</details>
